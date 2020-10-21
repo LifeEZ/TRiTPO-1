@@ -11,9 +11,12 @@
 ### 2.2. Интерфейс пользователя
 Дизайн приложения: [Ghotic](https://www.youtube.com/watch?v=aYcc4HB7TUg&feature=emb_logo&ab_channel=LuisZuno)
 Интерфейс приложения будет разделен на:
-* Главное меню.
+* Главное меню:
+https://sun9-42.userapi.com/jE3CeJWuB3KC2-g9I0BqlPWYrrLxGT7VCOG1Ag/doxTx4JBNv0.jpg
 * Меню настроек, где пользователь сможет изменить сложность игры и громкость:
-* Магазин.
+https://sun1.beltelecom-by-minsk.userapi.com/ivXLYMyVyS5_aFiw_kBL27v4wm_BjbhrR8Hs9Q/cbyGaAjg-9A.jpg
+* Магазин:
+https://sun9-19.userapi.com/yXRWG615KMnkCB3xNQFwAJv28SBVsCCzxsjCtg/39BzMMvfHT4.jpg
 ### 2.3. Характеристики пользователей 
 Целевая аудитория - люди любой возрастной категории, предпочитающие жанр игр "платформер". 
 
